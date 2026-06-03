@@ -1,0 +1,8 @@
+{
+  "name": " PEL Asset Management",
+  "description": "Full-featured asset management system for tracking key company hardware, peripherals, assignments, check-ins, audit trails, maintenance alerts, and inventory exports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
